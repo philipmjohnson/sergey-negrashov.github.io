@@ -1,0 +1,180 @@
+{
+  "basics": {
+    "name": "Sergey Negrashov",
+    "label": "Graduate Student",
+    "picture": "https://sergey-negrashov.github.io/images/serge.jpg",
+    "email": "sin8@hawaii.edu",
+    "phone": "",
+    "website": "https://sergey-negrashov.github.io",
+    "summary": "I am working on the PHD in ICS. My interests are in sensor networks, distributed measurements, and smart grid technologies.",
+    "location": {
+      "address": "1680 E West Rd Honolulu, HI 96822  Room 329",
+      "postalCode": "96822",
+      "city": "Honolulu",
+      "countryCode": "USA",
+      "region": "Hawaii"
+    },
+    "profiles": [
+      {
+        "network": "github",
+        "username": "sergey-negrashov",
+        "url": "http://github.com/sergey-negrashov"
+      },
+      {
+        "network": "linkedin",
+        "username": "sergey-negrashov",
+        "url": "http://linkedin.com/in/sergey-negrashov"
+      }
+    ]
+  },
+  "interests": [
+    {
+      "name": "Power Quality",
+      "keywords": [
+        "Open Power Quality"
+      ]
+    },
+    {
+      "name": "Particle Physics",
+      "keywords": [
+      ]
+    },
+    {
+      "name": "Sensor Networks",
+      "keywords": [
+      ]
+    }
+  ],
+  "skills": [
+    {
+      "name": "Languages and Frameworks",
+      "level": "",
+      "keywords": [
+        "C/C++",
+        "Java",
+        "Assembly",
+        "Rust",
+        "Verilog",
+        "Python",
+      ]
+    },
+    {
+      "name": "Toolsets/OS",
+      "level": "",
+      "keywords": [
+        "Linux",
+        "XILINX",
+        "Mentor Graphics Pads",
+        "STM32",
+        "Matlab"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Hawaii, Honolulu, HI",
+      "area": "Computer Science",
+      "studyType": "PHD",
+      "startDate": "2013-09-01",
+      "endDate": "Present",
+      "gpa": "",
+      "courses": [
+      ]
+    },
+    {
+      "institution": "University of Hawaii, Honolulu, HI",
+      "area": "Computer Science",
+      "studyType": "M.S.",
+      "startDate": "2011-09-01",
+      "endDate": "2013-09-01",
+      "gpa": "",
+      "courses": [
+      ]
+    },
+    {
+      "institution": "University of Minnesota, Minneapolis, MN",
+      "area": "Computer Science",
+      "studyType": "B.S.",
+      "startDate": "2006-01-01",
+      "endDate": "2010-01-01",
+      "gpa": "",
+      "courses": [
+      ]
+    },
+    {
+      "institution": "University of Minnesota, Minneapolis, MN",
+      "area": "Physics",
+      "studyType": "B.S.",
+      "startDate": "2006-01-01",
+      "endDate": "2010-01-01",
+      "gpa": "",
+      "courses": [
+      ]
+    }
+  ],
+  "work": [
+    {
+      "company": "UH Manoa Physics Department",
+      "position": "Researcher",
+      "website": "",
+      "startDate": "2011-09-01",
+      "endDate": "2016-01-01",
+      "summary": "Hardware RND for a particle physics experement.",
+      "highlights": [
+        "Design and develop electronics for a ultaportable directional neutrino detector.",
+        "Lead a team during the detector calibration and deployment at the NIST Center for Neutron Research Reactor.",
+        "Developed FPGA firmware and Linux software for detector operation, and data analysis"
+      ]
+    },
+    {
+      "company": "UH Manoa Information and Computer Science",
+      "position": "Teaching Assistant",
+      "website": "",
+      "startDate": "2016-01-01",
+      "endDate": "Present",
+      "summary": "Teaching the lab section of ICS111 and ICS 331",
+      "highlights": [
+        "Development of class curriculum.",
+        "Academic evaluation"
+      ]
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "Expanding your Horizons Hawaii",
+      "website": "http://www.eyhhawaii.org/",
+      "position": "Speaker",
+      "startDate": "2015-01-01",
+      "endDate": "Present",
+      "summary": "Teaching 6th-8th graders how to program in Javascript and Logo.",
+      "highlights": [
+      ]
+    },
+    {
+      "organization": "GSO Grant Review Committee",
+      "website": "http://gso.hawaii.edu/",
+      "position": "Grant Review",
+      "startDate": "2016-05-01",
+      "endDate": "Present",
+      "summary": "Graduate student funding and grant review.",
+      "highlights": [
+      ]
+    },
+    {
+      "organization": "FCC Technician License ",
+      "website": "",
+      "position": "KM6EYA",
+      "startDate": "2016-05-01",
+      "endDate": "Present",
+      "summary": "Amateur radio technician license.",
+      "highlights": [
+      ]
+    }
+  ],
+  "references": [
+    {
+      "name": "Available upon request",
+      "reference": ""
+    }
+  ]
+}
